@@ -1,6 +1,14 @@
+body {
+  background-color: rgb(171, 171, 171);
+}
+
 .body {
   display: flex;
-  margin: 30px 80px;
+  margin: 20px 60px;
+  padding: 20px 40px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(77, 77, 77);
 }
 
 .text {
